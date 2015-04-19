@@ -1,0 +1,15 @@
+[submodule "OfflineAddress.com"]
+	path = OfflineAddress.com
+	url = git@github.com:mikewoods/OfflineAddress.com.git
+[submodule "bitaddress.org"]
+	path = bitaddress.org
+	url = git@github.com:pointbiz/bitaddress.org.git
+[submodule "bitcoinpaperwallet"]
+	path = bitcoinpaperwallet
+	url = git@github.com:cantonbecker/bitcoinpaperwallet.git
+[submodule "WalletGenerator.net"]
+	path = WalletGenerator.net
+	url = https://github.com/MichaelMure/WalletGenerator.net.git
+[submodule "walletprinter"]
+	path = walletprinter
+	url = git@github.com:openpaperwallet/walletprinter.git
