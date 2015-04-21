@@ -13,3 +13,9 @@
 [submodule "walletprinter"]
 	path = walletprinter
 	url = git@github.com:openpaperwallet/walletprinter.git
+[submodule "brainwallet.github.io"]
+	path = brainwallet.github.io
+	url = git@github.com:brainwallet/brainwallet.github.io.git
+[submodule "libertypaperwallet"]
+	path = libertypaperwallet
+	url = git@github.com:SimonBelmond/libertypaperwallet.git
